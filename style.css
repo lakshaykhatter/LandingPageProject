@@ -25,3 +25,35 @@
 
 }
 
+/* Hero */
+
+.hero {
+    background-color: #1F2937;
+    font-family: "Roboto", "arial";
+    color:white;
+    display: flex;
+    height: 400px; 
+
+    justify-content: center;
+    align-items: center;
+}
+.left-hero {
+    width:450px;
+    flex: 1;
+    margin-left: 150px;
+    
+}
+
+.image {
+    margin-right: 250px;
+
+}
+
+button {
+    background-color: #3882F6;
+    font-size: 24px;
+    color:white;
+    border-radius: 8px;
+
+
+}
