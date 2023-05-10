@@ -14,11 +14,14 @@
 .links {
     margin-left: auto;
     color: white;
-    display: inline-block;
+    list-style-type: none;
+    display: flex;
+    gap:15px;
 }
 
 .links a {
     display:block;
-    
+    justify-content: flex-end;
+
 }
 
