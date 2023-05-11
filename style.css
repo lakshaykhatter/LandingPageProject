@@ -68,6 +68,7 @@ button {
 
     justify-content: center;
     align-items: center;
+    padding: 30px;
 }
 
 .randominformation h1 {
@@ -92,4 +93,63 @@ button {
     
     width: 100px;
 
+}
+
+/* Quote */
+
+.quote {
+    background-color: #E5E7EB;
+    padding: 50px;
+
+}
+
+.quote p {
+    font-size: 36px;
+    font-family:"Roboto", 'arial';
+    font-style: italic;
+    font-weight: lighter;
+
+    text-align: center;
+}
+
+.author {
+    display: block;
+    text-align: right;
+}
+
+/* Call to action */
+
+
+.bluerectangle {
+    background-color: #3882F6;
+    margin: 100px;
+    width: auto;
+    height: 200px;
+
+    border-radius: 25px;
+
+}
+
+.text{
+    display:flex;
+    flex-direction: column;
+    font-family: 'arial';
+    font-size: 25px;
+    
+}
+
+.bluerectangle p {
+    text-align: center;
+    color: white;
+
+}
+
+
+footer {
+    background-color: #1F2937;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    height: 100px;
+    
 }
