@@ -22,6 +22,7 @@
 .links a {
     display:block;
     justify-content: flex-end;
+    margin-right: 40px;
 
 }
 
@@ -55,5 +56,40 @@ button {
     color:white;
     border-radius: 8px;
 
+
+}
+
+/* Random inforamtion */
+
+.randominformation {
+    background-color: white;
+    display:flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.randominformation h1 {
+    font-family: "Roboto", "arial";
+    
+}
+
+.images {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+
+}
+
+.square {
+    border: 2px solid red;
+    border-radius: 5px;
+    height: 100px;
+    width: 100px;
+}
+.imagetext {
+    
+    width: 100px;
 
 }
