@@ -5,4 +5,7 @@ This was the landing page project for the foundations course on the Odin project
 
 viewable here at lakshaykhatter.github.io/LandingPageProject
 
+[Landing Page Project](lakshaykhatter.github.io/LandingPageProject)
+
+
 
